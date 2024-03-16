@@ -196,9 +196,6 @@ docker run -dp 8080:80  --name pure-admin vue-pure-admin
 
 [xiaoxian521](https://github.com/xiaoxian521)、[Ten-K](https://github.com/Ten-K)
 
-## 许可证
-
-完全免费开源
 
 [MIT © 2020-present, pure-admin](./LICENSE)
 
