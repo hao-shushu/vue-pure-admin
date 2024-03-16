@@ -204,7 +204,7 @@ docker run -dp 8080:80  --name pure-admin vue-pure-admin
 
 ## `Star`
 
-非常感谢留下星星的好心人，感谢您的支持 :heart:
+修改另外一句
 
 [![Stargazers repo roster for @pure-admin/vue-pure-admin](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=pure-admin&repo=vue-pure-admin)](https://github.com/pure-admin/vue-pure-admin/stargazers)
 
