@@ -208,3 +208,6 @@ docker run -dp 8080:80  --name pure-admin vue-pure-admin
 cxcascxc
 
 [![Forkers repo roster for @pure-admin/vue-pure-admin](https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=pure-admin&repo=vue-pure-admin)](https://github.com/pure-admin/vue-pure-admin/network/members)
+
+啦啦啦啦啦～～～～
+大声点
