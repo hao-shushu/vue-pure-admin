@@ -200,8 +200,7 @@ docker run -dp 8080:80  --name pure-admin vue-pure-admin
 [MIT © 2020-present, pure-admin](./LICENSE)
 
 ## `Star`
-
-非常感谢留下星星的好心人，感谢您的支持 :heart:
+信息嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻
 
 [![Stargazers repo roster for @pure-admin/vue-pure-admin](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=pure-admin&repo=vue-pure-admin)](https://github.com/pure-admin/vue-pure-admin/stargazers)
 
