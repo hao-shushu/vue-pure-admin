@@ -196,24 +196,20 @@ docker run -dp 8080:80  --name pure-admin vue-pure-admin
 
 [xiaoxian521](https://github.com/xiaoxian521)、[Ten-K](https://github.com/Ten-K)
 
-## 许可证
 
-完全免费开源
-嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻心
-fdfdfdfsdf
 [MIT © 2020-present, pure-admin](./LICENSE)
 
 ## `Star`
+信息嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻
 
-修改另外一句
-daggggg
 [![Stargazers repo roster for @pure-admin/vue-pure-admin](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=pure-admin&repo=vue-pure-admin)](https://github.com/pure-admin/vue-pure-admin/stargazers)
 
 ## `Fork`
-
+cxcascxc
 
 [![Forkers repo roster for @pure-admin/vue-pure-admin](https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=pure-admin&repo=vue-pure-admin)](https://github.com/pure-admin/vue-pure-admin/network/members)
 
+<<<<<<< HEAD
 
 
 
@@ -223,3 +219,8 @@ daggggg
 
 
 我是main写的代码
+=======
+啦啦啦啦啦～～～～
+大声点
+fdfsd
+>>>>>>> 077201a7e58567958fce7e4202abdd9f3ee9a8b3
