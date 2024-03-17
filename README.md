@@ -209,18 +209,10 @@ cxcascxc
 
 [![Forkers repo roster for @pure-admin/vue-pure-admin](https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=pure-admin&repo=vue-pure-admin)](https://github.com/pure-admin/vue-pure-admin/network/members)
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-我是main写的代码
-=======
 啦啦啦啦啦～～～～
 大声点
 fdfsd
->>>>>>> 077201a7e58567958fce7e4202abdd9f3ee9a8b3
+
+
+
+我是main，又增加了代码
